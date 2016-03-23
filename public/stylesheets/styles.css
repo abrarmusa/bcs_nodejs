@@ -1,0 +1,108 @@
+.make_black {
+  background-color: black !important;
+  color: white !important;
+}
+
+p.about {
+  font-size: 20px;
+  margin-left: 260px;
+  margin-right: 260px;
+}
+.center_img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projects {
+  background-color: black;
+  color: white !important;
+  padding-bottom: 50px;
+}
+
+.make_white {
+  background-color: white;
+  color: white;
+}
+
+#make_black {
+  background-color: black;
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-style: Times;
+}
+
+.about_me {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.about_me_img {
+  margin-top: 50px;
+  margin-bottom: 50px;    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50% !important;
+    width: 200px;
+    height: 200px;
+        overflow:hidden;
+}
+
+.logo-center{
+  border:inherit 8px #000000;
+  -moz-border-radius-topleft: 50% !important;
+  -moz-border-radius-topright:50% !important;
+  -moz-border-radius-bottomleft:50% !important;
+  -moz-border-radius-bottomright:50% !important;
+  -webkit-border-top-left-radius:50% !important;
+  -webkit-border-top-right-radius:50% !important;
+  -webkit-border-bottom-left-radius:50% !important;
+  -webkit-border-bottom-right-radius:50% !important;
+  border-top-left-radius:50% !important;
+  border-top-right-radius:50% !important;
+  border-bottom-left-radius:50% !important;
+  border-bottom-right-radius:50% !important;
+  height: 200px;
+      margin-left: auto;
+    margin-right: auto;
+  width: 200px;
+}
+
+.background_style {
+  background: url(/images/back.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 800px;
+}
+ 
+
+ * {
+  border-radius: 0 !important;
+
+}
+body {
+    font-family: 'Inconsolata' ;
+}
+
+ #big_name {
+  color:white;
+  font-family: 'Inconsolata', ;
+  text-align: center;
+ }
+
+ .center_text {
+  margin-bottom: 50px;
+  text-align: center;
+ }
+
+.no_margin {
+  margin: 0px !important;
+  border: 0px !important;
+}
